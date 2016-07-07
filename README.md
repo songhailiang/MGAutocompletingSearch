@@ -1,0 +1,2 @@
+# MGAutocompletingSearch
+导航栏上带suggest的搜索输入框，可自定义suggest tableviewcell
